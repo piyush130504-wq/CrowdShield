@@ -220,11 +220,6 @@ CrowdShield provides a Security Operations Centre-style interface featuring:
 - Multi-camera surveillance support.
 - Historical crowd analytics and reporting.
 
-## Author
-
-**Shivam Singh**
-
-GitHub: [@Ketoenol](https://github.com/Ketoenol)
 
 ## License
 
